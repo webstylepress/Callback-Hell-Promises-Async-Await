@@ -2,7 +2,7 @@
 
 ## Callback
 
-`
+```
 // .............................. //
 // JavaScript Callback Functions
 // A function passed to another function as an argument
@@ -23,4 +23,4 @@ function ask() {
 }
 
 greet('John', ask);
-`
+```
